@@ -1,0 +1,17 @@
+{
+    "port": 3000,
+    "name": "F2eTest",
+    "about": "浏览器云测平台",
+    "icon": "/favicon.ico",
+    "dbHost": "10.126.60.146",
+    "dbUser": "root",
+    "dbPass": "123456",
+    "dbTable": "f2etest",
+    "clientApiKey":"f2etest",
+    "guacamoleApi": "http://test.ds.gome.com.cn:8080/guacamole/client.xhtml",
+    "footer": "",
+    "statNav" : "<a href=\"/stat\">标准统计</a> | <a href=\"/statuser\">个人统计</a>",
+    "wdEnabled": false,
+    "wdCheckNodesInterval": 5000,
+    "wdCheckNodesParallelLimit": 16
+}

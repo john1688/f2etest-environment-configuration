@@ -1,0 +1,39 @@
+
+<configs>
+    <config name="f2etest-ie6" protocol="rdp">
+        <param name="hostname" value="10.144.4.111" />
+        <param name="port" value="3389" />
+        <param name="enable-drive" value="true" />
+        <param name="drive-path" value="/home/guacdshare" />
+    </config>
+    <config name="f2etest-ie7" protocol="rdp">
+        <param name="hostname" value="10.144.4.112" />
+        <param name="port" value="3389" />
+        <param name="enable-drive" value="true" />
+        <param name="drive-path" value="/home/guacdshare" />
+    </config>
+    <config name="f2etest-ie8" protocol="rdp">
+        <param name="hostname" value="10.126.60.142" />
+        <param name="port" value="3389" />
+        <param name="enable-drive" value="true" />
+        <param name="drive-path" value="/home/guacdshare" />
+    </config>
+    <config name="f2etest-ie9" protocol="rdp">
+        <param name="hostname" value="10.126.60.143" />
+        <param name="port" value="3389" />
+        <param name="enable-drive" value="true" />
+        <param name="drive-path" value="/home/guacdshare" />
+    </config>
+	<config name="f2etest-ie10" protocol="rdp">
+        <param name="hostname" value="10.126.60.144" />
+        <param name="port" value="3389" />
+        <param name="enable-drive" value="true" />
+        <param name="drive-path" value="/home/guacdshare" />
+    </config>
+	<config name="f2etest-ie11" protocol="rdp">
+        <param name="hostname" value="10.126.60.145" />
+        <param name="port" value="3389" />
+        <param name="enable-drive" value="true" />
+        <param name="drive-path" value="/home/guacdshare" />
+    </config>	
+</configs>
