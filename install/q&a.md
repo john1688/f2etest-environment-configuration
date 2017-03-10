@@ -33,3 +33,5 @@
     (1)360安全浏览器、360极速浏览器需要安装到windows server 2003的 c 盘的 360  文件夹中，并且 360 文件夹给Users角色授权所有
     (2)猎豹浏览器安装到Windows server 2003的 c盘的 liebao 文件夹中，并且将
     liebao文件夹给Users角色授权所有
+10. windows 2003 Server安装完后，浏览器无法访问https的网站？
+    下载360安全卫士，修复所有漏洞即可
